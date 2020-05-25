@@ -1,0 +1,36 @@
+.post {
+    background: rgb(34, 34, 34);
+    display: flex;
+    justify-content: space-between;
+    margin-top: 10px;
+    height: 210px;
+}
+.side {
+    width: 50%;
+}
+.side  > h3 {
+    color: #fff;
+    letter-spacing: 0.5;
+    font-weight: bold;
+    padding:10px
+}
+.side > p {
+    color: rgba(255, 255, 255, 0.8);
+    font-size: 13px;
+    padding: 10px;
+}
+.image {
+    width: 50%;
+}
+.img {
+    height: 100%;
+    width: 100%;
+}
+@media (max-width:700px) {
+.post{
+    margin-top: 70px;
+}
+.side{
+    overflow: hidden;
+}
+}

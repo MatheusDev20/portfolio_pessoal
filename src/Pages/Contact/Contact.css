@@ -1,0 +1,25 @@
+.contact-container {
+    background-color:  rgb(34, 34, 34);
+    height: 100vh;
+    display:flex;
+    justify-content: space-between;
+    padding: 30px;
+}
+
+.contact-container > div {
+    height: 80%;
+    width: 50%;
+}
+.contact-img {
+    margin-top: 50px;
+    color: #ffffff;
+
+}
+
+h2 {
+    margin-left: 50px;
+    color: #ffffff
+}
+.info > div {
+    margin-top: 30px;
+}

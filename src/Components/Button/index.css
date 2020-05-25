@@ -1,0 +1,48 @@
+.btn-acess {
+   margin-left: 15px;
+   margin-bottom: 5px;
+   border: none;
+   width: 20%;
+   margin-top: 5px;
+   height: 35px;
+   background-color: rgb(237, 42, 76);
+   color: #fff;
+   border-radius: 2px;
+   font-weight: bold;
+   font-size: 10px;
+   text-align: center;
+   cursor: pointer;
+}
+.btn-acess:hover {
+   background-color: rgb(233, 17, 53);;
+}
+.btn-git {
+   margin-left: 15px;
+   margin-bottom: 5px;
+   border: none;
+   width: 20%;
+   margin-top: 5px;
+   height: 35px;
+   background-color: rgb(48, 101, 248);
+   color: #fff;
+   border-radius: 2px;
+   font-weight: bold;
+   font-size: 10px;
+   text-align: center;
+   cursor: pointer
+}
+.btn-git:hover{
+   background-color: rgb(5, 101, 248);;
+}
+span{
+   font-size: 11px;
+   letter-spacing: 1px;
+}
+@media (max-width:700px) {
+.btn-acess {
+   display: none;
+}
+.btn-git {
+   display: none;
+}
+}

@@ -1,0 +1,75 @@
+[
+    {
+        "id": 1,
+        "title": "Fylo Landing Page",
+        "description":"Landing Page para empresa fictícia de armazenamento de dados",
+        "img": "fylo",
+        "techs": "#Javascript, #HTML, #CSS, #Responsivade #Flexbox",
+        "git_link": "https://github.com/MatheusDev20/Frontend-Projects/tree/master/fylo_company_landing_page",
+        "project_link": "https://fylo-landing-page-layout.netlify.app"
+    },
+    {
+        "id": 2,
+        "title": "To do List",
+        "description":"To do List com as opções CRUD criada em Vanilla JS",
+        "img": "todo",
+        "techs": "#Javascript, #HTML, #CSS, #DOM",
+        "git_link": "https://github.com/MatheusDev20/Frontend-Projects/tree/master/ToDoList",
+        "project_link": "https://vanillajstodolist.netlify.com"
+    },
+    {
+        "id": 3,
+        "title": "Sign up Form",
+        "description":"Formulário responsivo de cadastro de usuário, com validação dos dados de input",
+        "img": "form",
+        "techs": "#Javascript, #HTML, #CSS, #Flexbox #Media Queries",
+        "git_link": "https://github.com/MatheusDev20/Frontend-Projects/tree/master/sign-up-form",
+        "project_link": "https://sign-and-validation-form-example.netlify.app/"
+    },
+    {
+        "id": 4,
+        "title": "myTunes",
+        "description":"Clone da interface do Site de múscias Itunes",
+        "img": "tunes",
+        "techs": " #Javascript #Jquery, #HTML, #CSS, #Responsividade",
+        "git_link": "https://github.com/MatheusDev20/Frontend-Projects/tree/master/landing-page",
+        "project_link": "https://mytunes-landing-page-copy.netlify.app/"
+    },
+    {
+        "id": 5,
+        "title": "Login Page Interface",
+        "description":"Interface de Login criada em React",
+        "img": "login",
+        "techs": "#HTML, #CSS, #ReactJS, #Axios, #Hooks",
+        "git_link": "https://github.com/MatheusDev20/React-JS/tree/master/Login-Interface/project",
+        "project_link": "https://react-login-interface.netlify.app/"
+    },
+    {
+        "id": 6,
+        "title": "Master Heroes",
+        "description":"Game interativo de adivinhação de super herois, consumindo uma Api externa para receber dinamicamente os dados",
+        "img": "heroes",
+        "techs": "React,Hooks,Axios, SuperHero-Api,Styled-components",
+        "git_link": "https://github.com/MatheusDev20/React-JS/tree/master/MasterHeroes",
+        "project_link": "https://master-heroes-game.netlify.com/"
+    },
+    {
+        "id": 7,
+        "title": "RR Materiais E-Commerce",
+        "description":"E-Commerce fictício de uma loja de materiais de construção, com as funções de adicionar produtos ao carrinho e mais",
+        "img": "rr",
+        "techs": "React, State, CSS-GRID, Styled-Components, React-Router",
+        "git_link": "https://github.com/MatheusDev20/React-JS/tree/master/RR%20Materias",
+        "project_link": "https://react-teste-ecommerce.netlify.app/"
+    },
+    {
+        "id": 8,
+        "title": "Real Time Chat",
+        "description":"chat de troca de mensagens em tempo real, com a utilização de Socket para comuniação e express para o servidor Node",
+        "img": "chat",
+        "techs": "SocketIO, NodeJS, React-Hooks, React-Router",
+        "git_link": "https://github.com/MatheusDev20/React-JS/tree/master/RealTimeChat",
+        "project_link": "https://realtimechatapp.netlify.app/login"
+    }
+
+]
