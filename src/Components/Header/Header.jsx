@@ -8,6 +8,7 @@ import {Link} from 'react-router-dom';
 const Navbar = () => {
     const [resp, setResp] = useState(null);
     let brand = '<Matheus de Paula />';
+    
     return ( 
         <>
             <header className="header">
@@ -17,7 +18,6 @@ const Navbar = () => {
                 <nav className={`${resp === true} ? resp-nav : nav`}>
                     <Link to="/">Sobre mim</Link>
                     <Link to="/posts">Meu trabalho</Link>
-                    <Link to="/contato">Contato</Link>
                 </nav>
                 <div className="icons">
                     <a href="https://github.com/MatheusDev20" target="blank">

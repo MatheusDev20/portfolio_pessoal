@@ -1,11 +1,35 @@
 import React from 'react';
 import './start.css';
+import avatar from '../../assets/avatar.png';
+import {FontAwesomeIcon} from '@fortawesome/react-fontawesome';
+import {faPhone, faEnvelope } from '@fortawesome/free-solid-svg-icons';
 
 
 const Start = ()  => {
   return ( 
       <div className="start-container">
-          <div className="start-img">
+          <div className="start-profile">
+            <div className="profile-container">
+              <div className="avatar-info">
+                <div>
+                <img src={avatar} alt="profile_avatar" /> 
+                </div>
+                <div>
+                    <h2>Junior Developer</h2>
+                </div>
+              </div>
+              <hr />
+              <h1>Contato</h1>
+              <div className="contact">
+                <div>
+                    <span><FontAwesomeIcon icon={faPhone}/> <span>(32) 988575939  </span> </span>
+                </div>
+                <div>
+                    <span><FontAwesomeIcon icon={faEnvelope}/> <span> matheusdev20@gmail.com </span></span>
+                </div>
+              </div>
+              <hr />
+            </div>
           </div>
           <div className="start-content">
               <h2>Sobre mim</h2>
@@ -27,7 +51,7 @@ const Start = ()  => {
               <hr/>
               <p>
                 Para suprir a falta de experiência e dominar os requisitos técnicos desenvolvo projetos pessoais, disponibilizo
-                -os no meu<a href="#" className="start-link">Github</a>
+                -os no meu<a href="https://github.com/MatheusDev20" className="start-link" target="blank">Github</a>
                 Atualmente foco meus estudos principalmente em Javascript e seu ecossistema e ramificações, porém domino conceitos
                 de desenvolvimento WEB de modo geral.
               </p>
