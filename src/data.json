@@ -28,12 +28,12 @@
     },
     {
         "id": 4,
-        "title": "myTunes",
-        "description":"Clone da interface do Site de múscias Itunes",
-        "img": "tunes",
-        "techs": " #Javascript #Jquery, #HTML, #CSS, #Responsividade",
-        "git_link": "https://github.com/MatheusDev20/Frontend-Projects/tree/master/landing-page",
-        "project_link": "https://mytunes-landing-page-copy.netlify.app/"
+        "title": "UI Discord Clone",
+        "description":"Clone da interface do app Discord",
+        "img": "discord",
+        "techs": " #Javascript #Styled-Components, #JSX, #React, #CSS, #Responsividade",
+        "git_link": "https://github.com/MatheusDev20/React-JS/tree/master/DiscordUIClone/discord-ui-clone",
+        "project_link": "https://discord-ui-layout-clone.netlify.app/"
     },
     {
         "id": 5,
@@ -47,7 +47,7 @@
     {
         "id": 6,
         "title": "Master Heroes",
-        "description":"Game interativo de adivinhação de super herois, consumindo uma Api externa para receber dinamicamente os dados",
+        "description":"Game interativo de super herois, consumindo uma Api externa",
         "img": "heroes",
         "techs": "React,Hooks,Axios, SuperHero-Api,Styled-components",
         "git_link": "https://github.com/MatheusDev20/React-JS/tree/master/MasterHeroes",
@@ -65,11 +65,14 @@
     {
         "id": 8,
         "title": "Real Time Chat",
-        "description":"chat de troca de mensagens em tempo real, com a utilização de Socket para comuniação e express para o servidor Node",
+        "description":"chat de troca de mensagens em tempo real, com socket",
         "img": "chat",
         "techs": "SocketIO, NodeJS, React-Hooks, React-Router",
         "git_link": "https://github.com/MatheusDev20/React-JS/tree/master/RealTimeChat",
         "project_link": "https://realtimechatapp.netlify.app/login"
+    },
+    {
+        
     }
 
 ]
