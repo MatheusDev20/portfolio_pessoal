@@ -70,9 +70,5 @@
         "techs": "SocketIO, NodeJS, React-Hooks, React-Router",
         "git_link": "https://github.com/MatheusDev20/React-JS/tree/master/RealTimeChat",
         "project_link": "https://realtimechatapp.netlify.app/login"
-    },
-    {
-        
     }
-
 ]
