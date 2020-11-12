@@ -22,7 +22,7 @@ const Start = ()  => {
               <h1>Contato</h1>
               <div className="contact">
                 <div>
-                    <span><FontAwesomeIcon icon={faPhone}/> <span>(32) 988575939  </span> </span>
+                    <span><FontAwesomeIcon icon={faPhone}/> <span>(32) 999543180 </span> </span>
                 </div>
                 <div>
                     <span><FontAwesomeIcon icon={faEnvelope}/> <span> matheusdev20@gmail.com </span></span>
