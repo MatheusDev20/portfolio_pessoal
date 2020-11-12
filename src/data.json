@@ -19,12 +19,12 @@
     },
     {
         "id": 3,
-        "title": "Sign up Form",
-        "description":"Formulário responsivo de cadastro de usuário, com validação dos dados de input",
-        "img": "form",
-        "techs": "#Javascript, #HTML, #CSS, #Flexbox #Media Queries",
-        "git_link": "https://github.com/MatheusDev20/Frontend-Projects/tree/master/sign-up-form",
-        "project_link": "https://sign-and-validation-form-example.netlify.app/"
+        "title": "League-Interface",
+        "description":"League of Legends Login interface Layout",
+        "img": "league-interface",
+        "techs": "#Typescript, #ReactJS, #Styled-Components",
+        "git_link": "https://github.com/MatheusDev20/React-JS/tree/master/league-login-interface",
+        "project_link": "https://league-login-interface.netlify.app/"
     },
     {
         "id": 4,
@@ -70,5 +70,14 @@
         "techs": "SocketIO, NodeJS, React-Hooks, React-Router",
         "git_link": "https://github.com/MatheusDev20/React-JS/tree/master/RealTimeChat",
         "project_link": "https://realtimechatapp.netlify.app/login"
+    },
+    {
+        "id": 9,
+        "title": "Sign Up Form",
+        "description":"Formulário com validação de dados",
+        "img": "form",
+        "techs": "#HTML, #Javascript, #CSS",
+        "git_link": "https://github.com/MatheusDev20/Frontend-Projects/tree/master/sign-up-form",
+        "project_link": "https://sign-and-validation-form-example.netlify.app/"
     }
 ]
