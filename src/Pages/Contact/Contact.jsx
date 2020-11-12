@@ -16,7 +16,7 @@ const Contact = () =>  {
                 <div className="info">
                         <div style={{display:'flex'}}>
                             <FontAwesomeIcon icon={faPhone} style={{fontSize:'40px', color:'#fff'}}/>
-                            <h2>(32) 999543180</h2>
+                            <h2>(32) 999543180.</h2>
                         </div>
                         <div style={{display:'flex'}}>
                             <FontAwesomeIcon icon={faEnvelope} style={{fontSize:'40px', color:'#fff'}}/>
